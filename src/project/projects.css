@@ -1,0 +1,80 @@
+.project{
+  background-color: rgba(138, 177, 163, 0.598);
+  }
+.project h1 span{
+color: rgb(166, 201, 201);
+font-size: 43px;
+
+}
+/* .project h1{
+    color:rgb(209, 194, 194)
+} */
+.project h4{
+font-size: 25px; color:rgb(234, 214, 214)
+
+}
+.project img{
+border-radius: 20px;
+}
+.hidden{
+display:none ;
+}
+.hidden{
+display:none ;
+}
+
+.list h5{
+    transition: 0.5s ease-in-out; 
+    color: rgba(0, 0, 0, 0.829);
+    cursor:pointer;
+    font-weight:700
+    }
+    .list h5:hover{
+    
+
+  text-decoration: underline;
+    transform: scale(1);
+    color:#889fe3
+    }
+.list li{
+        font-size: 18px; font-weight: 500; color: rgb(15, 15, 15); text-transform: capitalize;
+        }
+div li:hover{
+         /* background-color: rgb(62, 55, 55);
+         color: black;
+         
+         text-align: center; */
+        transition: 1s ease-in-out; 
+        
+        }
+        .box{
+        padding: 5px;
+        position:relative;
+        overflow: hidden;
+        border: 5px solid rgb(253, 228, 228);
+       
+        
+        }
+        .box img{ border-radius: 20px;}
+        .box::before{
+        content: attr(data-work);
+        position: absolute;
+        background-color: rgba(125, 161, 160, 0.76);
+        width: calc(100% - 10px);
+        height: calc(100% - 10px);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-weight: bold;
+        color: rgb(226, 228, 224);
+        transition: 0.3s;
+        font-size: 1.5rem;
+        transform: translateY(calc(100% - 5px));
+        border-radius: 10px;
+        padding: 12px;
+        
+        }
+        .box:hover::before{
+          transform:translateY(0)
+        
+        }

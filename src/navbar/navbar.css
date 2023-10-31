@@ -1,0 +1,36 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Nosifer&family=Roboto:ital,wght@0,300;1,100&display=swap');
+
+.active{
+width: fit-content;
+    border-bottom: 3px solid rgb(89, 235, 215);
+    
+}
+.navbar .navbar-toggler{
+background-color: #B5C0E4;
+}
+.navbar .navbar-toggler:focus{
+outline: none;
+box-shadow: none;
+
+
+}
+.navbar{
+background-color:#5787a0;
+z-index: 10;
+}
+
+.navbar li{
+
+font-size: 20px;
+font-weight: 400;
+}
+.navbar-brand{
+    font-family: 'Nosifer', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Sedgwick Ave Display', cursive;
+    
+}
+
+  
+

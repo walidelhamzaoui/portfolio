@@ -1,0 +1,45 @@
+
+
+.form input ,.form textarea ,.form input:focus,.form textarea:focus {outline: none;box-shadow:none;border: 2px solid rgb(97, 131, 129) ;
+
+background-color: rgba(237, 246, 244, 0.904);
+padding: 10px;
+}
+.rows{
+border-radius: 20px;
+box-shadow: 1px 1px 5px  2px rgb(105, 138, 128);;
+padding:15px 10px 20px  5px;
+background-color: rgba(142, 177, 185, 0.795);
+
+}
+.form textarea{
+border-radius: 5px;
+
+
+}
+
+.form h1{
+color: rgb(105, 124, 98);
+text-shadow: 1px 1px 3px rgb(16, 13, 13);
+font-weight: 700;
+}
+.form label{
+color:rgb(77, 138, 77);
+text-shadow: 1px 1px 0px rgb(95, 114, 89);
+font-size: 18px;
+font-weight: 350;
+
+
+}
+.bg{
+background-color: rgb(147, 174, 174);
+
+
+}
+.btn:hover{
+background-color: rgb(58, 79, 66);
+border: 1px solid rgb(58, 79, 66);
+color:white/* padding-right:10px; 
+padding-left:10px solidpx;  */
+
+}

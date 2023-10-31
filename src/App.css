@@ -1,0 +1,62 @@
+.App {
+  position: relative;
+ 
+
+}
+.App .imga {
+width:70px;
+position: fixed;
+bottom:0;
+z-index: 2;
+
+
+
+}
+ .imga {
+  animation-name: what;
+  animation-duration: 1.5s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+@keyframes what {
+to {
+transform: translateY(-20px);
+
+}
+  
+}
+.scroll{
+
+  position: fixed;
+  bottom:0;
+  right:0;
+  cursor: pointer;
+ animation-name:auto;
+ animation-duration:1.5s;
+ animation-iteration-count: infinite;
+ animation-direction: alternate;
+ animation-timing-function: linear;
+ color:rgba(68, 70, 56, 0.884);
+ z-index: 2;
+}
+@keyframes auto{
+
+to{
+transform: translateY(-20px);
+
+}
+}
+.scroll:hover{
+color: rgb(220, 106, 12);
+
+}
+ 
+.activescroll{
+display: block;
+margin-bottom: 5px;
+border-bottom: 3px solid burlywood;
+}
+.noactive{
+display:none;
+}

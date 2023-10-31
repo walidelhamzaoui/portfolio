@@ -1,0 +1,96 @@
+
+.tite h1{
+color:#307473
+
+}
+
+.tite h4{
+color:#46a58c
+
+}
+
+  /* for all social containers*/
+  .socialContainer {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #7A82AB;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    transition-duration: .3s;
+    margin-left: -10px;
+  }
+  /* instagram*/
+  .containerOne:hover {
+    background-color: #d62976;
+    transition-duration: .3s;
+  }
+  /* twitter*/
+  .containerTwo:hover {
+    background-color: #00acee;
+    transition-duration: .3s;
+  }
+  /* linkdin*/
+  .containerThree:hover {
+    background-color: #0072b1;
+    transition-duration: .3s;
+  }
+  /* Whatsapp*/
+  .containerFour:hover {
+    background-color: #128C7E;
+    transition-duration: .3s;
+    
+  }
+  
+  .socialContainer:active {
+    transform: scale(0.9);
+    transition-duration: .3s;
+  }
+  
+  .socialSvg {
+    width: 17px;
+  }
+  
+  
+  .socialSvg path {
+    fill: rgb(199, 221, 222);
+  }
+  
+  .socialContainer:hover .socialSvg {
+    animation: slide-in-top 0.3s both;
+  }
+  
+  @keyframes slide-in-top {
+    0% {
+      transform: translateY(-50px);
+      opacity: 0;
+    }
+  
+    100% {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+  .image img{
+  box-shadow: 3px 3px 15px 5px rgb(53, 95, 95);
+  }
+  .cv{
+  background-color: #d8cd5a;;
+  color: rgb(95, 76, 57);
+  width: 200px;
+  margin-left:30px ;
+  font-weight: 450;
+  font-size: 20px;
+  font-weight: 500;
+  }
+  .cv:hover{
+    background-color: #36d1bf;color: white;
+  }
+  .img-home{
+ /* border: 2px solid rgb(172, 239, 233); 
+   */
+  }
+  
+  
