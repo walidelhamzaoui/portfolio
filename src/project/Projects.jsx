@@ -41,29 +41,29 @@ return(
 </div>
 
 </div>
-<div class="col-lg-4 col-md-6 mb-5">
-<div class="box" data-work="Application">
+<div className="col-lg-4 col-md-6 mb-5">
+<div className="box" data-work="Application">
 <img src={images3} className="img-fluid "  style={{height:"275px"}} />
 
 </div>
 
 </div>
-<div class="col-lg-4 col-md-6 mb-5">
-<div class="box" data-work="Application">
+<div className="col-lg-4 col-md-6 mb-5">
+<div className="box" data-work="Application">
 <img src={images4} className="img-fluid "  style={{height:"275px"}} />
 
 </div>
 
 </div>
-<div class="col-lg-4 col-md-6 mb-5">
-<div class="box" data-work="Application">
+<div className="col-lg-4 col-md-6 mb-5">
+<div className="box" data-work="Application">
 <img src={images5} className="img-fluid "  style={{height:"275px"}} />
 
 </div>
 
 </div>
-<div class="col-lg-4 col-md-6 mb-5">
-<div class="box" data-work="Application">
+<div className="col-lg-4 col-md-6 mb-5">
+<div className="box" data-work="Application">
 <img src={images6} className="img-fluid "  style={{height:"275px"}} />
 
 </div>
