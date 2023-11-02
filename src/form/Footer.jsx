@@ -28,7 +28,7 @@ export default function Footer(){
 <hr className=" text-black " style={{height:"5px", width:"350px", backgroundColor:'rgb(118, 106, 106)'}}/>
 </div>
 <div className=" d-flex justify-content-center align-items-center  w-100">
-<p className=" fs-6  ">©2023WALID ELHAMZAOUI <br/> ALL RIGHITS RESERND  </p>
+<p className=" fs-6  ">©2023 WALID ELHAMZAOUI <br/> ALL RIGHTS RESERVED</p>
 </div>
 
 

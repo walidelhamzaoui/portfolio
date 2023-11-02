@@ -4,15 +4,10 @@
 
 }
 .App .imga {
-width:70px;
-position: fixed;
-bottom:0;
-z-index: 2;
-
-
-
-}
- .imga {
+  width:70px;
+  position: fixed;
+  bottom:0;
+  z-index: 2;
   animation-name: what;
   animation-duration: 1.5s;
   animation-timing-function: linear;
@@ -22,9 +17,7 @@ z-index: 2;
 @keyframes what {
 to {
 transform: translateY(-20px);
-
-}
-  
+} 
 }
 .scroll{
 
@@ -55,6 +48,7 @@ color: rgb(220, 106, 12);
 .activescroll{
 display: block;
 margin-bottom: 5px;
+
 border-bottom: 3px solid burlywood;
 }
 .noactive{

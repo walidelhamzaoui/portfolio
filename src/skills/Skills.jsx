@@ -38,14 +38,14 @@ return(
 <div ref={usert} className="text-center title "><h1 className="fs-2 fw-bold" style={{color:"#307473", fontWeight:"700"}}> Skills</h1></div>
 <div className="row ">
 
-<div ref={userf} className="col-lg-6 col-md-5  ">
+<div ref={userf} className="col-lg-6 col-md-6  ">
 
 <img src={image} className="img-fluid" style={{height:"400px"}}/>
 
 
 
 </div>
-<div ref={userb} className="col-lg-6 col-md-7 ">
+<div ref={userb} className="col-lg-6 col-md-6 ">
 <div className=" gap-5 lh-lg "  >
 
 <div className=" skills pt-4 ps-5">

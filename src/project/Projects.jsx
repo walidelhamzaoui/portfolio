@@ -4,7 +4,7 @@ import images from'./s1.jpg'
 import images2 from'./s2.jpg'
 import images3 from'./s3.jpg'
 import images4 from'./s2.png'
-import images5 from'./w2.jpg'
+import images5 from'./site.png'
 import images6 from'./s6.png'
 import ScrollReveal from "scrollreveal"; 
 export default function Projects(){

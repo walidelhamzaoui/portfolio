@@ -5,8 +5,8 @@ background-color: rgba(183, 216, 205, 0.566);
 }
 .ico{
 background-color:rgba(109, 23, 185, 0.527);
-/* max-height:4000px;
-max-width:360px; */
+min-height:560px;
+/*max-width:460px; */
 border-radius: 15px;
 box-shadow: 2px 3px 10px 2px rgb(169, 115, 115);
 
@@ -18,18 +18,19 @@ margin:5px
 }
 .ico h1{
 color: rgba(105, 66, 213, 0.598);
-font-size: 25px;
-font-weight: bold;
+font-size: 26px;
+padding-bottom:8px ;
 }
 .ico p{
 color: blanchedalmond;
-
+ font-size: 16px;
+ /* line-height: 30px; */
 }
 .title{
 
     color:#307473;
     font-family: Georgia, serif;
     letter-spacing: 2px;
-    font-weight: 100;
-    text-transform:uppercase;
+    
+    text-transform:capitalize
     }
