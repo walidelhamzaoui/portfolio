@@ -1,6 +1,6 @@
 .App {
   position: relative;
- 
+ overflow: hidden;
 
 }
 .App .imga {
