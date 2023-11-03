@@ -1,25 +1,27 @@
 
 
 .forma input ,.forma textarea ,.forma input:focus,.forma textarea:focus {outline: none;box-shadow:none;border: 2px solid rgb(97, 131, 129) ;
-    width:310px;
-    margin: 5px;
+    max-width:350px;
+    margin:5px;
     padding: 10px;
     
 background-color: rgba(237, 246, 244, 0.904);
-/* padding: 10px; */
+padding: 10px;
 }
-.forma textarea{
-    width:310px;
-}
+
+/* .forma textarea{
+    width:380px;
+} */
 .rows{
-border-radius: 20px;
+border-radius: 14px;
 box-shadow: 1px 1px 5px  2px rgb(105, 138, 128);;
-padding:10px;
+padding:20px;
+
 background-color: rgba(142, 177, 185, 0.795);
 
 }
 .form-label{
-margin-left: 5px;
+margin-left: 10px;
 
 }
 .forma textarea{
@@ -49,7 +51,6 @@ background-color: rgb(147, 174, 174);
 .btn:hover{
 background-color: rgb(58, 79, 66);
 border: 1px solid rgb(58, 79, 66);
-color:white/* padding-right:10px; 
-padding-left:10px solidpx;  */
+color:white
 
 }

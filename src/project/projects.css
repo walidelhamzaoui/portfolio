@@ -66,9 +66,9 @@ div li:hover{
         justify-content: center;
         align-items: center;
         font-weight: bold;
-        color: rgb(226, 228, 224);
+        color: rgb(10, 10, 9);
         transition: 0.3s;
-        font-size: 1.5rem;
+        font-size: 2.2rem;
         transform: translateY(calc(100% - 5px));
         border-radius: 10px;
         padding: 12px;

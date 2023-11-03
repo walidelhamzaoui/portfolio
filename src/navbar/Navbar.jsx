@@ -10,10 +10,10 @@ return(
     <Link className="navbar-brand text-white fw-bold text-black-50 fs-4
 
 " to="/"> Walid Elhamzaoui</Link>
-    <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#main" aria-controls="main" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon"></span>
     </button>
-    <div className="collapse navbar-collapse" id="navbarSupportedContent">
+    <div className="collapse navbar-collapse" id="main">
       <ul className="navbar-nav ms-auto mb-2 mb-lg-0 gap-lg-5 pe-3">
         <li className="nav-item">
           <NavLink className="nav-link text-white-50" aria-current="page" to="/">Home</NavLink>

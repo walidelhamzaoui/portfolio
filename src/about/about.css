@@ -27,7 +27,7 @@ color:#46a58c
     background-color: #d62976;
     transition-duration: .3s;
   }
-  /* twitter*/
+  /* facebook*/
   .containerTwo:hover {
     background-color: #4267B2;
     transition-duration: .3s;
@@ -88,9 +88,6 @@ color:#46a58c
   .cv:hover{
     background-color: #36d1bf;color: white;
   }
-  .img-home{
- /* border: 2px solid rgb(172, 239, 233); 
-   */
-  }
+
   
   
