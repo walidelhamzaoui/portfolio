@@ -3,7 +3,7 @@
 .form input ,.form textarea ,.form input:focus,.form textarea:focus {outline: none;box-shadow:none;border: 2px solid rgb(97, 131, 129) ;
 
 background-color: rgba(237, 246, 244, 0.904);
-padding: 10px;
+/* padding: 10px; */
 }
 .rows{
 border-radius: 20px;
@@ -18,12 +18,12 @@ border-radius: 5px;
 
 }
 
-.form h1{
+.forma h1{
 color: rgb(105, 124, 98);
 text-shadow: 1px 1px 3px rgb(16, 13, 13);
 font-weight: 700;
 }
-.form label{
+.forma label{
 color:rgb(77, 138, 77);
 text-shadow: 1px 1px 0px rgb(95, 114, 89);
 font-size: 18px;
