@@ -5,8 +5,8 @@
 background-color: rgba(237, 246, 244, 0.904);
 /* padding: 10px; */
 }
-.form-group {
-margin:5px 25px;
+.form-group{
+width:300px
 
 }
 .forma textarea{
