@@ -31,6 +31,14 @@ font-weight: 400;
     font-family: 'Sedgwick Ave Display', cursive;
     
 }
+.toga{
+display: block;
+
+}
+.toggler{
+display:none;
+
+}
 
   
 

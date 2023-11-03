@@ -1,12 +1,12 @@
 
 
 .forma input ,.forma textarea ,.forma input:focus,.forma textarea:focus {outline: none;box-shadow:none;border: 2px solid rgb(97, 131, 129) ;
-    max-width:350px;
-    margin:5px;
-    padding: 10px;
+     /* max-width:350px; */
+    
+    padding: 10px; 
     
 background-color: rgba(237, 246, 244, 0.904);
-padding: 10px;
+
 }
 
 /* .forma textarea{
@@ -17,7 +17,13 @@ border-radius: 14px;
 box-shadow: 1px 1px 5px  2px rgb(105, 138, 128);;
 padding:20px;
 
+
 background-color: rgba(142, 177, 185, 0.795);
+  /* width: 600px;  
+display: flex; 
+flex-direction: column;
+justify-content: center;
+align-items: center; */
 
 }
 .form-label{
@@ -26,7 +32,6 @@ margin-left: 10px;
 }
 .forma textarea{
 border-radius: 5px;
-
 
 }
 

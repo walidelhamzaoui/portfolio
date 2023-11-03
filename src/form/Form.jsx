@@ -31,26 +31,26 @@ const form = useRef();
     return (
         <div className='bg pb-3 pt-3'>
           <h1  ref={userf}className='title text-center pt-2'>Contact <span className='text-black'>Me</span> </h1>
-            <div ref={userb} className="  container  d-flex  align-items-center justify-content-center pt-4 pb-3  ">
+            <div ref={userb} className="  container  d-lg-flex  align-items-lg-center justify-content-lg-center pt-4 pb-3  ">
           
                 <form ref={form} className='forma rows' onSubmit={sendEmail}>
                 <h1 className='text-center fs-2  pt-3 pb-3'>Envoyer Message</h1>
-                <div className='row  '>
+                <div className='row'>
               
                     <div className="form-group col-lg-6 col-md-6   ">
                     <label className="form-label text-start">Name</label>
                     <input type="text" name="user_name" placeholder=" Name" className="form-control  " required/>
                     </div>
-                    <div className="form-group  col-lg-6 col-md-6     ">
+                    <div className="form-group  col-lg-6 col-md-6    ">
                     <label  className="form-label text-start">Email</label>
-                    <input type="email" name="user_email" placeholder=" Email" className="form-control" required/>
+                    <input type="email" name="user_email" placeholder=" Email" className="form-control " required/>
                     </div>
                     </div>
                 <div className='row' >
               
                     <div className="form-group col-lg-6 col-md-6    ">
                     <label className="form-label text-start">phone number</label>
-                    <input type="telephone" name="user_phone" placeholder=" phone" className="form-control" required/>
+                    <input type="telephone" name="user_phone" placeholder=" phone" className="form-control  " required/>
                     </div>
                     <div className="form-group  col-lg-6 col-md-6    ">
                     <label  className="form-label text-start">subject</label>
