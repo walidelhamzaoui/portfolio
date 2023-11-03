@@ -29,7 +29,7 @@ color:#46a58c
   }
   /* twitter*/
   .containerTwo:hover {
-    background-color: #00acee;
+    background-color: #4267B2;
     transition-duration: .3s;
   }
   /* linkdin*/
@@ -80,7 +80,7 @@ color:#46a58c
   background-color: #d8cd5a;;
   color: rgb(95, 76, 57);
   width: 200px;
-  margin-left:30px ;
+  
   font-weight: 450;
   font-size: 20px;
   font-weight: 500;
