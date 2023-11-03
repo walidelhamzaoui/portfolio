@@ -20,7 +20,7 @@ const userb=useRef();
             <div ref={userb} className="  container  d-flex  align-items-center justify-content-center pt-4 pb-3  ">
           
                 <form  className='forma rows  ' >
-                <h1 className='text-center fs-2 pb-3'>Envoyer Message</h1>
+                <h1 className='text-center fs-2  pt-3 pb-3'>Envoyer Message</h1>
                 <div className='row ' >
               
                     <div className="form-group col-lg-6 col-md-6   ">
@@ -44,9 +44,9 @@ const userb=useRef();
                     </div>
                     </div>
                     
-                    <div className="form-group ps-lg-2  mt-3 d-flex flex-column justify-content-center  ">
+                    <div className="form-group ps-lg-2   mt-3 d-flex flex-column justify-content-center  ">
                     <label className="form-label">Message</label>
-                  <textarea name="description" id="description" cols="40" rows="4" placeholder='Seend...'  className="pt-lg-1 pt-0 " style={{maxWidth:"550px"}} ></textarea>
+                  <textarea name="description" id="description" cols="60" rows="6" placeholder='Seend...'  className=" pt-lg-1 pt-0   " ></textarea>
                     
                     </div>
                     <div className='text-center pt-3 w-100 '>
