@@ -1,6 +1,6 @@
 import {useRef, useEffect} from "react";
 import { Link } from "react-router-dom";
-import  images from './image.jpg'
+
 import  image from './image-removebg-preview.png'
 import  img from './css.png'
 import  img1 from './javascript.png'
@@ -10,11 +10,9 @@ import  laravel from './laravel.png'
 import  bootstrap from './bo.png'
 import  php from './php.png'
 import  sql from './sql-removebg-preview.png'
-import  vscode from './vscode-removebg-preview.png'
-import  xampp from './xampp-removebg-preview.png'
-import  postman from './postam-removebg-preview.png'
+
 import  git from './git-removebg-preview.png'
-import  ps from './ps-removebg-preview.png'
+
 import './skills.css'
 import ScrollReveal from "scrollreveal"; 
 export default function Skills(){
