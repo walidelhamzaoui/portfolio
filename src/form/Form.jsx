@@ -23,22 +23,22 @@ const userb=useRef();
                 <h1 className='text-center fs-2 pb-3'>Envoyer Message</h1>
                 <div className='row ' >
               
-                    <div className="form-group col-lg-6 col-md-12 pe-ms-5  ">
+                    <div className="form-group col-lg-6 col-md-6   ">
                     <label className="form-label text-start">Name</label>
                     <input type="text" name="name" placeholder=" Name" className="form-control  " required/>
                     </div>
-                    <div className="form-group  col-lg-6 col-md-12  pe-ms-5  ">
+                    <div className="form-group  col-lg-6 col-md-6    ">
                     <label  className="form-label text-start">Email</label>
                     <input type="email" name="email" placeholder=" Email" className="form-control " required/>
                     </div>
                     </div>
                 <div className='row ' >
               
-                    <div className="form-group col-lg-6 col-md-12    ">
+                    <div className="form-group col-lg-6 col-md-6    ">
                     <label className="form-label text-start">phone number</label>
                     <input type="telephone" name="name" placeholder=" phone" className="form-control  " required/>
                     </div>
-                    <div className="form-group  col-lg-6 col-md-12    ">
+                    <div className="form-group  col-lg-6 col-md-6    ">
                     <label  className="form-label text-start">subject</label>
                     <input type="text" name="subject" placeholder=" subject" className="form-control " required/>
                     </div>
