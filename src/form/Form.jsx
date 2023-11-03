@@ -19,7 +19,7 @@ const userb=useRef();
           <h1  ref={userf}className='title text-center pt-2'>Contact <span className='text-black'>Me</span> </h1>
             <div ref={userb} className="  container  d-flex  align-items-center justify-content-center pt-4 pb-3  ">
           
-                <form  className='form rows  ' >
+                <form  className=' rows  ' >
                 <h1 className='text-center fs-2 pb-3'>Envoyer Message</h1>
                 <div className='row ' >
               

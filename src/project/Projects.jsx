@@ -27,15 +27,15 @@ return(
 <h1 ref={userf} className="  title text-center pt-1 pb-5">My Projects</h1>
 
 <div  ref={userb} className="row ">
-<div class="col-lg-4 col-md-6 mb-5 ">
-<div class="box" data-work="Site web de commerce de acheter les vetment et les sbardine et t-shirt et custome ">
+<div className="col-lg-4 col-md-6 mb-5 ">
+<div className="box" data-work="Site web de commerce de acheter les vetment et les sbardine et t-shirt et custome ">
 <img src={images} className="img-fluid  " />
 
 </div>
 
 </div>
-<div class="col-lg-4 col-md-6 mb-5">
-<div class="box" data-work="Ce Site Vend Différents Types De Pierres">
+<div className="col-lg-4 col-md-6 mb-5">
+<div className="box" data-work="Ce Site Vend Différents Types De Pierres">
 <img src={images2} className="img-fluid  " style={{height:"270px"}} />
 
 </div>

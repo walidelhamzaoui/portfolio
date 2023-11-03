@@ -22,7 +22,7 @@ return(
 <h1 ref={userfb} className=' title text-center pt-1 pb-5 '>Our Services</h1>
 <div className='row ' ref={userf}>
 <div className='col-lg-4 col-md-6 pb-5 '>
-<div class="ico pb-5 p-3 lh-lg ">
+<div className="ico pb-5 p-3 lh-lg ">
 
 <div className='text-center pt-2 pb-2'>
 <svg  xmlns="http://www.w3.org/2000/svg" width="60" height="70" fill="currentColor" className="bi bi-code-slash" viewBox="0 0 16 16">
