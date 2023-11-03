@@ -58,12 +58,12 @@ const form = useRef();
                     </div>
                     </div>
                     
-                    <div className="form-group ps-lg-2    mt-3 d-flex flex-column justify-content-center  ">
+                    <div className="form-group    mt-3 d-flex flex-column justify-content-center  ">
                     <label className="form-label">Message</label>
-                  <textarea name="message" id="description" cols="60" rows="4" placeholder='Seend...'  className=" pt-lg-1 pt-0   " ></textarea>
+                  <textarea name="message" id="description" cols="75" rows="4" placeholder='Seend...'  className=" pt-lg-1 pt-0    " ></textarea>
                     
                     </div>
-                    <div className='text-center pt-3 w-100 pb-3 '>
+                    <div className='text-center pt-4 w-100 pb-3 '>
                     <button type="submit" className=" btn btn-secondary ps-lg-5 pe-lg-5 fs-5 ">Envoyer</button>
                     
                     </div>

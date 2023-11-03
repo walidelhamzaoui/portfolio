@@ -13,12 +13,16 @@ background-color: rgba(237, 246, 244, 0.904);
     width:380px;
 } */
 .rows{
-border-radius: 14px;
-box-shadow: 1px 1px 5px  2px rgb(105, 138, 128);;
-padding:20px;
+/* border-radius:30px;
+/* box-shadow: 1px 1px 5px  2px rgb(105, 138, 128);; */ 
+box-shadow: 2px 2px 5px  5px rgb(105, 138, 128);
+/* border-radius:10px;
+border: 3px solid rgb(14, 12, 12); */
+padding:10px;
+border-radius:10px;
 
 
-background-color: rgba(142, 177, 185, 0.795);
+background-color: rgba(142, 177, 185, 0.947);
   /* width: 600px;  
 display: flex; 
 flex-direction: column;
