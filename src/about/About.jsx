@@ -5,7 +5,7 @@ import images from './profail.jpg'
 import ScrollReveal from "scrollreveal";
 import './about.css'
 
-const PDF_FILE_Url = 'http://localhost:3000/Walid_ELhmazaoui.pdf'
+const PDF_FILE_Url = 'https://portfolio-three-khaki-70.vercel.app/Walid_ELhmazaoui.pdf'
 
 export default function Home() {
 
