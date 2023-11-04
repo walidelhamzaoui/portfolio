@@ -13,6 +13,7 @@ import Home from'./Home';
 import { Link } from 'react-router-dom';
 
 function App() {
+ 
   const usRef = useRef();
 
   window.onscroll=function(){
@@ -36,6 +37,7 @@ function App() {
       behavior: 'smooth',
     });
   };
+  
 
   return (
     <div className="App">

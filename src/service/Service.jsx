@@ -34,7 +34,7 @@ return(
 </svg>
 </div>
 <h1 className=' pt-2 text-center'>Full-stack developer</h1>
-<p className='  pt-3 text-start'>As a full stack developer, I possess a broad range of technical skills and knowledge that allow me to develop and maintain both the front-end and back-end of a web application. My expertise includes knowledge of various programming languages, databases, and frameworks, which enable me to create web applications that are not only functional but also scalable and robust.</p>
+<p className='  pt-3 text-start'>As a full stack developer, I possess a broad range of technical skills and knowledge that allow me to develop and maintain both the front-end and back-end of a web application.<br/> My expertise includes knowledge of various programming languages, databases, and frameworks, which enable me to create web applications that are not only functional but also scalable and robust.</p>
 
 </div>
 
@@ -48,7 +48,7 @@ return(
 </svg>
 </div>
 <h1 className='pt-2'>Front-end developer</h1>
-<p  className=' pt-3 text-start'>As a full stack developer with a strong emphasis on front-end development, I possess a diverse skill set and knowledge that enable me to create engaging and user-friendly web interfaces. My expertise encompasses a wide range of front-end technologies, including HTML, CSS, JavaScript, and the React framework, allowing me to craft visually appealing </p>
+<p  className=' pt-3 text-start'>As a full stack developer with a strong emphasis on front-end development, I possess a diverse skill set and knowledge that enable me to create engaging and user-friendly web interfaces.<br/> My expertise encompasses a wide range of front-end technologies, including HTML, CSS, JavaScript, and the React framework, allowing me to craft visually appealing </p>
 </div>
 </div>
 <div className='col-lg-4 col-md-6  pb-5 '>
@@ -61,7 +61,7 @@ return(
 </div>
 <h1  className=' pt-2'>Back-end developer</h1>
 <p className=' pt-3 text-start'>
-My expertise lies in utilizing the PHP framework Laravel for web development. As a full stack developer, I have a diverse skill set that enables me to create and maintain both front-end and back-end components of web applications. I am well-versed in various programming languages, databases, and frameworks, with a strong emphasis on Laravel.
+My expertise lies in utilizing the PHP framework Laravel for web development. As a full stack developer, I have a diverse skill set that enables me to create and maintain both front-end and back-end components of web applications.<br/> I am well-versed in various programming languages, databases, and frameworks, with a strong emphasis on Laravel.
 </p>
 </div>
 </div>
