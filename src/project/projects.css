@@ -55,18 +55,18 @@ div li:hover{
        
         
         }
-        .box img{ border-radius: 20px;}
+        .box img{ border-radius: 10px;}
         .box::before{
         content: attr(data-work);
         position: absolute;
-        background-color: rgba(125, 161, 160, 0.76);
+        background-color: rgba(138, 169, 168, 0.445);
         width: calc(100% - 10px);
         height: calc(100% - 10px);
         display: flex;
         justify-content: center;
         align-items: center;
         font-weight: bold;
-        color: rgb(10, 10, 9);
+        color: rgba(204, 148, 122, 0.918);
         transition: 0.3s;
         font-size: 2.2rem;
         transform: translateY(calc(100% - 5px));

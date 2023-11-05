@@ -34,7 +34,7 @@ return(
 </svg>
 </div>
 <h1 className=' pt-2 text-center'>Full-stack developer</h1>
-<p className='  pt-3 text-start'>As a full stack developer, I possess a broad range of technical skills and knowledge that allow me to develop and maintain both the front-end and back-end of a web application.<br/> My expertise includes knowledge of various programming languages, databases, and frameworks, which enable me to create web applications that are not only functional but also scalable and robust.</p>
+<p className='  pt-3 text-start'>As a full stack developer, I possess a broad range of technical skills and knowledge that allow me to develop and maintain both the front-end and back-end of a web application. My expertise includes knowledge of various programming languages, databases, and frameworks, which enable me to create web applications that are not only functional but also scalable and robust.</p>
 
 </div>
 
