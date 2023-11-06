@@ -1,18 +1,16 @@
 import {useRef, useEffect} from "react";
 import { Link } from "react-router-dom";
 
-import  image from './image-removebg-preview.png'
-import  img from './css.png'
-import  img1 from './javascript.png'
-import  img2 from './html.png'
-import  react from './react-removebg-preview.png'
+import  image from './image.png'
+import  css from './css.png'
+import  js from './javascript.png'
+import  html from './html.png'
+import  react from './reactjs.png'
 import  laravel from './laravel.png'
 import  bootstrap from './bo.png'
 import  php from './php.png'
-import  sql from './sql-removebg-preview.png'
-
-import  git from './git-removebg-preview.png'
-
+import  sql from './sql.png'
+import  git from './git.png'
 import './skills.css'
 import ScrollReveal from "scrollreveal"; 
 export default function Skills(){
@@ -47,10 +45,10 @@ return(
 <div className=" gap-5 lh-lg "  >
 
 <div className=" skills pt-4 ps-5">
-<img src={img2} className="img-fluid "style={{width:"108px"}}  />
-<img src={img} className="img-fluid "style={{width:"110px"}}  />
+<img src={html} className="img-fluid "style={{width:"108px"}}  />
+<img src={css} className="img-fluid "style={{width:"110px"}}  />
 <img src={bootstrap} className="img-fluid "style={{width:"108px"}}  />
-<img src={img1} className="img-fluid "style={{width:"108px"}}  />
+<img src={js} className="img-fluid "style={{width:"108px"}}  />
 <img src={php} className="img-fluid  "style={{width:"108px"}}  />
 <img src={laravel} className="img-fluid "style={{width:"106px"}}  />
 <img src={react} className="img-fluid "style={{width:"108px",height:'105px'}}  />
