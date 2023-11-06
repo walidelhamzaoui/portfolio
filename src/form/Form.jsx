@@ -28,7 +28,7 @@ const form = useRef();
             var footer = document.getElementById('footer');
             var successAlert = document.createElement('div');
            
-            successAlert.className = 'alert alert-success d-flex  align-items-center z-3 w-50';
+            successAlert.className = ' col-lg-6 col-md-6 ms-auto alert alert-success d-flex  align-items-center z-3 ';
             successAlert.role = 'alert';
             successAlert.innerHTML = `
             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="me-2 bi bi-check-square-fill" viewBox="0 0 16 16">

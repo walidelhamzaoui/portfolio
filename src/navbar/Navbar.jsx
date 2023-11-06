@@ -1,7 +1,7 @@
 import React from "react";
 import { NavLink, Link } from 'react-router-dom';
 import './navbar.css';
-import 'bootstrap/dist/css/bootstrap.min.css';
+
 export default function Navbar() {
  
 
@@ -19,7 +19,7 @@ export default function Navbar() {
           <div className="collapse navbar-collapse" id="main">
             <ul className="navbar-nav ms-auto mb-2 mb-lg-0 gap-lg-5 pe-3" >
               <li className="nav-item">
-                <NavLink className="nav-link text-white-50" aria-current="page" to="/">Home</NavLink>
+                <NavLink className="nav-link text-white-50 " aria-current="page" to="/">Home</NavLink>
               </li>
               <li className="nav-item">
                 <NavLink className="nav-link text-white-50" to="about">About</NavLink>

@@ -8,6 +8,7 @@ width: fit-content;
 }
 .navbar .navbar-toggler{
 background-color: #B5C0E4;
+
 }
 .navbar .navbar-toggler:focus{
 outline: none;
