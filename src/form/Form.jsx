@@ -72,7 +72,7 @@ const form = useRef();
               
                     <div className="form-group col-lg-6 col-md-6 mt-3">
                     <label className="form-label text-start">Your Phone Number</label>
-                    <input type="telephone" name="user_phone" placeholder=" phone" className="form-control" required/>
+                    <input type="tel" name="user_phone" placeholder=" phone" className="form-control " required  />
                     </div>
                     <div className="form-group  col-lg-6 col-md-6 mt-3">
                     <label  className="form-label text-start">subject</label>
