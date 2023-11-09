@@ -29,14 +29,14 @@ export default function Skills(){
        
          }, [])
 return(
-<div className="pt-5 pb-5" style={{backgroundColor:"#b8c0d9"}}>
+<div className="pt-4 pb-4" style={{backgroundColor:"#b8c0d9"}}>
 <div className="container">
-<div ref={usert} className="text-center title "><h1 className="fs-2 fw-bold" style={{color:"#307473", fontWeight:"700"}}> Skills</h1></div>
+<div ref={usert} className="text-center title pt-3 pb-3  "><h1  style={{color:"#307473", fontWeight:"700"}}> Skills</h1></div>
 <div className="row ">
 
-<div ref={userf} className="col-lg-6 col-md-6  ">
+<div ref={userf} className="col-lg-6 col-md-6  mt-2 mb-3  ">
 
-<img src={image} className="img-fluid" style={{height:"400px"}}/>
+<img src={image} className="img-fluid img-skills" style={{height:"400px"}}/>
 
 
 
@@ -44,7 +44,7 @@ return(
 <div ref={userb} className="col-lg-6 col-md-6 ">
 <div className=" gap-5 lh-lg "  >
 
-<div className=" skills pt-4 ps-5">
+<div className=" skills  ps-5">
 <img src={html} className="img-fluid "style={{width:"108px"}}  />
 <img src={css} className="img-fluid "style={{width:"110px"}}  />
 <img src={bootstrap} className="img-fluid "style={{width:"108px"}}  />

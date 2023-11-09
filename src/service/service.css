@@ -5,8 +5,8 @@ background-color: rgba(183, 216, 205, 0.566);
 }
 .ico{
 background-color:rgba(109, 23, 185, 0.527);
-min-height:560px;
-/*max-width:460px; */
+min-height:460px;
+max-height:580px;
 border-radius: 5px;
 box-shadow: 2px 3px 10px 2px rgb(169, 115, 115);
 

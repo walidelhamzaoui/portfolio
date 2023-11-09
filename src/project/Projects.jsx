@@ -29,14 +29,14 @@ export default function Projects() {
         <div ref={userb} className="row ">
           <div className="col-lg-4 col-md-6 mb-5 ">
             <div className="box" data-work="Web Page">
-              <img src={images} className="img-fluid  " />
+              <img src={images} className="img-fluid  " style={{ height: "274px" }}  />
 
             </div>
 
           </div>
           <div className="col-lg-4 col-md-6 mb-5">
             <div className="box" data-work="Web Page">
-              <img src={images2} className="img-fluid  " style={{ height: "270px" }} />
+              <img src={images2} className="img-fluid  " style={{ height: "274px" }} />
 
             </div>
 

@@ -5,4 +5,8 @@ margin:10px;
 border-radius:13px;
 padding:5px;
 box-shadow:10px 9px 5px 5px rgba(129, 116, 116, 0.628);
+} 
+.img-skills{box-shadow: 0px 0px 6px 6px rgba(89, 95, 78, 0.326);
+border-radius: 10px;
+/* height:auto !important */
 }
