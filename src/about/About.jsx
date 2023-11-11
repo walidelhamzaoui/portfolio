@@ -12,7 +12,7 @@ export default function Home() {
 
   React.useEffect(() => {
     const typed = new Typed(myRefi.current, {
-      strings: ['Full-stack Developer','Front-end Developer','back-end Developer  '],
+      strings: ['Full-Stack Developer','Front-End Developer','Back-End Developer  '],
       typeSpeed: 50,backDelay:1000,backSpeed:100,loop:true
     });
 

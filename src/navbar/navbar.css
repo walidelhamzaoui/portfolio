@@ -3,7 +3,7 @@
 
 .active{
 width: fit-content;
-    border-bottom: 3px solid rgb(49, 58, 14);
+    border-bottom: 3px solid rgb(127, 126, 98);
     color: aqua;
     
 }
@@ -31,11 +31,9 @@ font-weight: 400;
     font-family: 'Nosifer', sans-serif;
     font-family: 'Roboto', sans-serif;
     font-family: 'Sedgwick Ave Display', cursive;
-    
+    color: rgb(204, 207, 151);
 }
-.za{
 
-}
 
   
 

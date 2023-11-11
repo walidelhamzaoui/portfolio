@@ -86,7 +86,7 @@ const form = useRef();
                     
                     </div>
                     <div className='text-center pt-4 w-100 pb-3 '>
-                    <button type="submit" className=" btn btn-secondary ps-lg-5 pe-lg-5 fs-5 ">Send Message</button>
+                    <button type="submit" className=" btn  ps-lg-5 pe-lg-5 fs-5 ">Send Message</button>
                     
                     </div>
                     {alert}

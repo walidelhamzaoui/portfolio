@@ -22,7 +22,7 @@ padding:10px;
 border-radius:10px;
 
 
-background-color: rgba(189, 151, 93, 0.267)
+background-color: rgba(122, 91, 44, 0.553)
   /* width: 600px;  
 display: flex; 
 flex-direction: column;
@@ -40,9 +40,10 @@ border-radius: 5px;
 }
 
 .forma h1{
-color: rgb(247, 237, 237);
+color: rgb(191, 189, 183);
 /* text-shadow: 1px 1px 3px rgb(16, 13, 13); */
 /* font-weight: 700; */
+
 }
 .forma label{
 color:rgb(11, 11, 11);
@@ -54,12 +55,15 @@ font-weight: 350;
 }
 .bg{
 background-color: rgba(68, 60, 55, 0.388);
-
-
 }
+.btn{
+background-color: rgba(103, 106, 74, 0.943);
+color: white;
+}
+
 .btn:hover{
-background-color: rgb(58, 79, 66);
-border: 1px solid rgb(58, 79, 66);
+background-color: rgb(5, 5, 5);
+border: 1px solid rgb(8, 10, 9);
 color:white
 
 }
