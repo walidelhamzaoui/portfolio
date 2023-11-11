@@ -1,15 +1,16 @@
 import React from "react";
 import { NavLink, Link } from 'react-router-dom';
 import './navbar.css';
-
+import images from './profail.jpg'
 export default function Navbar() {
  
 
   return (
     <div>
       <nav className="navbar navbar-expand-lg pt-3 pb-3">
-        <div className="container ps-5">
-          <Link className="navbar-brand text-white fw-bold text-black-50 fs-4" to="/">Walid Elhamzaoui</Link>
+        <div className="container ps-5 d-flex justify-content-center gap-2">
+        <img src={images} className="img-fluid rounded-circle"  style={{width:"50px"}}/>
+          <Link className="navbar-brand text-white fw-bold text-black-50 fs-6" to="/"> Walid Elhamzaoui</Link>
           <button className="navbar-toggler ms-auto" type="button" data-bs-toggle="collapse" data-bs-target="#main" aria-controls="main" aria-expanded="false" aria-label="toggle navigation">
             <span className="navbar-toggler-icon"></span>
           </button>

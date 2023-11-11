@@ -1,0 +1,53 @@
+[33m076977a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{0}: reset: moving to HEAD
+[33m076977a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{1}: checkout: moving from main to main
+[33m076977a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{2}: commit: update skills
+[33m03da3a6[m HEAD@{3}: commit: update form
+[33m715d449[m HEAD@{4}: commit: image-react
+[33me941bcf[m HEAD@{5}: commit: form-alert
+[33m945f0d9[m HEAD@{6}: commit: navbar
+[33mc22473f[m HEAD@{7}: commit: navbar toggler
+[33m7644441[m HEAD@{8}: commit: update alert
+[33mf055f2b[m HEAD@{9}: commit: alert message
+[33ma8a9881[m HEAD@{10}: commit: about
+[33m6e05918[m HEAD@{11}: commit: about
+[33m52724dc[m HEAD@{12}: commit: URL
+[33m84b1c11[m HEAD@{13}: commit: form
+[33m43e359a[m HEAD@{14}: commit: toggle
+[33m7041b3c[m HEAD@{15}: commit: form response
+[33m2ac7acc[m HEAD@{16}: commit: button
+[33m709dc95[m HEAD@{17}: commit: responsive
+[33m4d0223c[m HEAD@{18}: commit: width
+[33m8121f67[m HEAD@{19}: commit: input form
+[33m48ad344[m HEAD@{20}: commit: input form
+[33m43175da[m HEAD@{21}: commit: inputaa
+[33m3fe12eb[m HEAD@{22}: commit: inputa
+[33m7e29322[m HEAD@{23}: commit: input
+[33mac38ff8[m HEAD@{24}: commit: for
+[33md6cdca4[m HEAD@{25}: commit: updat
+[33m2a27c7b[m HEAD@{26}: commit: form
+[33me37e745[m HEAD@{27}: commit: form
+[33m88b8424[m HEAD@{28}: commit: form
+[33m7462157[m HEAD@{29}: commit: form
+[33m2fa97ad[m HEAD@{30}: commit: form
+[33mf32cc52[m HEAD@{31}: commit: form
+[33m78a7c04[m HEAD@{32}: commit: form
+[33m1162c24[m HEAD@{33}: commit: form
+[33mb48f2fc[m HEAD@{34}: commit: form
+[33maf746fb[m HEAD@{35}: commit: form
+[33m80a1074[m HEAD@{36}: reset: moving to HEAD
+[33m80a1074[m HEAD@{37}: commit: ser
+[33m8f6d97b[m HEAD@{38}: reset: moving to HEAD
+[33m8f6d97b[m HEAD@{39}: commit: ser
+[33m58941ad[m HEAD@{40}: commit: ser
+[33m0559cbf[m[33m ([m[1;31morigin/gha-pages[m[33m)[m HEAD@{41}: Branch: renamed refs/heads/main to refs/heads/main
+[33m0559cbf[m[33m ([m[1;31morigin/gha-pages[m[33m)[m HEAD@{43}: reset: moving to HEAD
+[33m0559cbf[m[33m ([m[1;31morigin/gha-pages[m[33m)[m HEAD@{44}: checkout: moving from main to main
+[33m0559cbf[m[33m ([m[1;31morigin/gha-pages[m[33m)[m HEAD@{45}: checkout: moving from 235ba47e7f54e763af490dc3007c7b4647f39fe0 to main
+[33m235ba47[m HEAD@{46}: commit: updateq
+[33mcccad42[m HEAD@{47}: commit: updateq
+[33m0559cbf[m[33m ([m[1;31morigin/gha-pages[m[33m)[m HEAD@{48}: checkout: moving from gha-pages to gha-pages
+[33m0559cbf[m[33m ([m[1;31morigin/gha-pages[m[33m)[m HEAD@{49}: checkout: moving from main to gha-pages
+[33m0559cbf[m[33m ([m[1;31morigin/gha-pages[m[33m)[m HEAD@{50}: commit: update service
+[33m352ec04[m HEAD@{51}: commit: update service
+[33m3662556[m HEAD@{52}: Branch: renamed refs/heads/master to refs/heads/main
+[33m3662556[m HEAD@{54}: commit (initial): first portfolio

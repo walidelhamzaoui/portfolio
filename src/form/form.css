@@ -1,11 +1,11 @@
 
 
-.forma input ,.forma textarea ,.forma input:focus,.forma textarea:focus {outline: none;box-shadow:none;border: 2px solid rgb(97, 131, 129) ;
+.forma input ,.forma textarea ,.forma input:focus,.forma textarea:focus {outline: none;box-shadow:none;border: none ;
      /* max-width:350px; */
     
     padding: 10px; 
     
-background-color: rgba(237, 246, 244, 0.904);
+background-color: rgba(229, 227, 223, 0.639);
 
 }
 
@@ -15,14 +15,14 @@ background-color: rgba(237, 246, 244, 0.904);
 .rows{
 /* border-radius:30px;
 /* box-shadow: 1px 1px 5px  2px rgb(105, 138, 128);; */ 
-box-shadow: 2px 2px 5px  5px rgb(105, 138, 128);
+/* box-shadow: 2px 2px 5px  5px rgb(241, 247, 245); */
 /* border-radius:10px;
 border: 3px solid rgb(14, 12, 12); */
 padding:10px;
 border-radius:10px;
 
 
-background-color: rgba(142, 177, 185, 0.947);
+background-color: rgba(189, 151, 93, 0.267)
   /* width: 600px;  
 display: flex; 
 flex-direction: column;
@@ -40,20 +40,20 @@ border-radius: 5px;
 }
 
 .forma h1{
-color: rgb(105, 124, 98);
-text-shadow: 1px 1px 3px rgb(16, 13, 13);
-font-weight: 700;
+color: rgb(247, 237, 237);
+/* text-shadow: 1px 1px 3px rgb(16, 13, 13); */
+/* font-weight: 700; */
 }
 .forma label{
-color:rgb(77, 138, 77);
-text-shadow: 1px 1px 0px rgb(95, 114, 89);
+color:rgb(11, 11, 11);
+/* text-shadow: 1px 1px 0px rgb(95, 114, 89); */
 font-size: 18px;
 font-weight: 350;
 
 
 }
 .bg{
-background-color: rgb(147, 174, 174);
+background-color: rgba(68, 60, 55, 0.388);
 
 
 }

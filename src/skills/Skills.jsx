@@ -1,7 +1,7 @@
 import {useRef, useEffect} from "react";
 import { Link } from "react-router-dom";
 
-import  image from './image.png'
+import  image from './image.jpg'
 import  css from './css.png'
 import  js from './javascript.png'
 import  html from './html.png'
@@ -29,9 +29,9 @@ export default function Skills(){
        
          }, [])
 return(
-<div className="pt-4 pb-4" style={{backgroundColor:"#b8c0d9"}}>
+<div className="" style={{backgroundColor:"rgba(68, 60, 55, 0.388)"}}>
 <div className="container">
-<div ref={usert} className="text-center title pt-3 pb-3  "><h1  style={{color:"#307473", fontWeight:"700"}}> Skills</h1></div>
+<div ref={usert} className="text-center title pt-3 pb-3  "><h1  style={{color:"rgb(165, 121, 70)", fontWeight:"700"}}> Skills</h1></div>
 <div className="row ">
 
 <div ref={userf} className="col-lg-6 col-md-6  mt-2 mb-3  ">

@@ -3,11 +3,12 @@
 
 .active{
 width: fit-content;
-    border-bottom: 3px solid rgb(89, 235, 215);
+    border-bottom: 3px solid rgb(49, 58, 14);
+    color: aqua;
     
 }
 .navbar .navbar-toggler{
-background-color: #B5C0E4;
+background-color: rgba(129, 111, 71, 0.705);
 
 }
 .navbar .navbar-toggler:focus{
@@ -17,8 +18,8 @@ box-shadow: none;
 
 }
 .navbar{
-background-color:#5787a0;
-z-index: 10;
+background-color:rgba(75, 64, 56, 0.555);
+
 }
 
 .navbar li{
@@ -32,7 +33,9 @@ font-weight: 400;
     font-family: 'Sedgwick Ave Display', cursive;
     
 }
+.za{
 
+}
 
   
 

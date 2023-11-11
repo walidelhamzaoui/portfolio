@@ -1,5 +1,5 @@
 .project{
-  background-color: rgba(138, 177, 163, 0.598);
+  background-color: rgba(68, 60, 55, 0.388);
   }
 .project h1 span{
 color: rgb(166, 201, 201);
@@ -29,13 +29,7 @@ display:none ;
     cursor:pointer;
     font-weight:700
     }
-    .list h5:hover{
-    
-
-  text-decoration: underline;
-    transform: scale(1);
-    color:#889fe3
-    }
+  
 .list li{
         font-size: 18px; font-weight: 500; color: rgb(15, 15, 15); text-transform: capitalize;
         }
@@ -51,7 +45,7 @@ div li:hover{
         padding: 5px;
         position:relative;
         overflow: hidden;
-        border: 5px solid rgb(253, 228, 228);
+        /* border: 5px solid rgb(253, 228, 228); */
        
         
         }
@@ -59,14 +53,14 @@ div li:hover{
         .box::before{
         content: attr(data-work);
         position: absolute;
-        background-color: rgba(138, 169, 168, 0.445);
+        /* background-color: rgba(138, 169, 168, 0.445); */
         width: calc(100% - 10px);
         height: calc(100% - 10px);
         display: flex;
         justify-content: center;
         align-items: center;
         font-weight: bold;
-        color: rgba(204, 148, 122, 0.918);
+        /* color: rgba(204, 148, 122, 0.918); */
         transition: 0.3s;
         font-size: 2.2rem;
         transform: translateY(calc(100% - 5px));

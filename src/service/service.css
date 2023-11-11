@@ -1,34 +1,35 @@
 
 
 .service{
-background-color: rgba(183, 216, 205, 0.566);
+background-color: rgba(68, 60, 55, 0.388);
 }
 .ico{
-background-color:rgba(109, 23, 185, 0.527);
+background-color:rgba(131, 121, 99, 0.774);
 min-height:460px;
 max-height:580px;
 border-radius: 5px;
-box-shadow: 2px 3px 10px 2px rgb(169, 115, 115);
+box-shadow: 2px 3px 10px 2px rgb(132, 108, 108);
 
 }
 .ico svg{
-color:rgba(232, 55, 176, 0.705);
+color:rgba(133, 120, 91, 0.799);
 margin:5px
 
 }
 .ico h1{
-color: rgba(105, 66, 213, 0.598);
-font-size: 26px;
-padding-bottom:8px ;
+color: rgba(88, 73, 66, 0.932);
+font-size: 30px;
+
 }
 .ico p{
-color: blanchedalmond;
- font-size: 16px;
+color: rgb(43, 36, 24);
+
+ font-family:Arial, Helvetica, sans-serif ;
  /* line-height: 30px; */
 }
 .title{
 
-    color:#307473;
+    color:rgb(165, 121, 70);
     font-family: Georgia, serif;
     letter-spacing: 2px;
     

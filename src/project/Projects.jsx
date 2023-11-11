@@ -22,9 +22,9 @@ export default function Projects() {
   }, [])
   return (
 
-    <div className=" project pt-5 pb-5">
+    <div className=" project ">
       <div className="container pb-1">
-        <h1 ref={userf} className="  title text-center pt-1 pb-5">My Projects</h1>
+        <h1 ref={userf} className="  title text-center  pb-3">My Projects</h1>
 
         <div ref={userb} className="row ">
           <div className="col-lg-4 col-md-6 mb-5 ">

@@ -50,7 +50,7 @@ const form = useRef();
       };
       
     return (
-        <div className='bg pb-3 pt-3' >
+        <div className='bg pb-2' >
    
           <h1  ref={userf}className='title text-center pt-2'>Contact <span className='text-black'>Me</span> </h1>
             <div ref={userb} className="  container  d-lg-flex  align-items-lg-center justify-content-lg-center pt-4 pb-3  ">

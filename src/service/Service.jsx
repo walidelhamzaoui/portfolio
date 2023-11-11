@@ -17,7 +17,7 @@ export default function Service(){
 
   }, [])
 return(
-<div className=' service pt-5' >
+<div className=' service pt-3' >
 <div className='container'>
 <h1 ref={userfb} className=' title text-center pt-1 pb-5 '>Our Services</h1>
 <div className='row ' ref={userf}>
