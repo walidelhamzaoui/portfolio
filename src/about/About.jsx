@@ -6,7 +6,7 @@ import ScrollReveal from "scrollreveal";
 import './about.css'
 import Typed from 'typed.js';
 
-const PDF_FILE_Url = 'https://portfolio-three-khaki-70.vercel.app/Walid_ELhmazaoui.pdf'
+const PDF_FILE_Url = 'https://portfolio-three-khaki-70.vercel.app/walid_elhamzaoui.cv.pdf'
 
 export default function Home() {
 
