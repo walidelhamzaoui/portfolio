@@ -31,9 +31,9 @@ export default function Projects() {
           <div className="col-lg-4 col-md-6 mb-5 ">
             <div className="box" >
             <div className="boxe ">
-            <h3 className="mt-3">See the website</h3>
+            <h3 className="mb-4">See the website</h3>
             {/* <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis odit quis doloribus atque nesciunt eaque voluptate nobis corporis fuga optio ex earum, rem, in tempore ratione facilis odio temporibus at?</p> */}
-            <Link to='' className="bg-P rounded  mt-1 "><svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" fill="rgb(123, 138, 76)" class="bi bi-arrow-up-square" viewBox="0 0 16 16">
+            <Link to='' className="bg-P rounded   "><svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" fill="rgb(123, 138, 76)" class="bi bi-arrow-up-square" viewBox="0 0 16 16">
   <path fill-rule="evenodd" d="M15 2a1 1 0 0 0-1-1H2a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V2zM0 2a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V2zm8.5 9.5a.5.5 0 0 1-1 0V5.707L5.354 7.854a.5.5 0 1 1-.708-.708l3-3a.5.5 0 0 1 .708 0l3 3a.5.5 0 0 1-.708.708L8.5 5.707V11.5z"/>
 </svg></Link>
             </div>
@@ -45,14 +45,14 @@ export default function Projects() {
           <div className="col-lg-4 col-md-6 mb-5">
             <div className="box" >
               <div className="boxe">
-            <h3 className="mt-3">See the website</h3>
+            <h3 className="mb-4">See the website</h3>
             {/* <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis odit quis doloribus atque nesciunt eaque voluptate nobis corporis fuga optio ex earum, rem, in tempore ratione facilis odio temporibus at?</p> */}
             <Link to='' className="bg-P rounded mt-1 "><svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" fill="rgb(123, 138, 76)" class="bi bi-arrow-up-square" viewBox="0 0 16 16">
   <path fill-rule="evenodd" d="M15 2a1 1 0 0 0-1-1H2a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V2zM0 2a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V2zm8.5 9.5a.5.5 0 0 1-1 0V5.707L5.354 7.854a.5.5 0 1 1-.708-.708l3-3a.5.5 0 0 1 .708 0l3 3a.5.5 0 0 1-.708.708L8.5 5.707V11.5z"/>
 </svg></Link>
             </div>
             <div className="boxe">
-            <h3 className="mt-3">See the website</h3>
+            <h3 className="mb-4">See the website</h3>
             {/* <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis odit quis doloribus atque nesciunt eaque voluptate nobis corporis fuga optio ex earum, rem, in tempore ratione facilis odio temporibus at?</p> */}
             <Link to='' className="bg-P rounded mt-1 "><svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" fill="rgb(123, 138, 76)" class="bi bi-arrow-up-square" viewBox="0 0 16 16">
   <path fill-rule="evenodd" d="M15 2a1 1 0 0 0-1-1H2a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V2zM0 2a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V2zm8.5 9.5a.5.5 0 0 1-1 0V5.707L5.354 7.854a.5.5 0 1 1-.708-.708l3-3a.5.5 0 0 1 .708 0l3 3a.5.5 0 0 1-.708.708L8.5 5.707V11.5z"/>
@@ -66,7 +66,7 @@ export default function Projects() {
           <div className="col-lg-4 col-md-6 mb-5">
             <div className="box" >
               <div className="boxe">
-            <h3 className="mt-3">See the website</h3>
+            <h3 className="mb-4">See the website</h3>
             {/* <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis odit quis doloribus atque nesciunt eaque voluptate nobis corporis fuga optio ex earum, rem, in tempore ratione facilis odio temporibus at?</p> */}
             <Link to='' className=" bg-P rounded mt-1 "><svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" fill="rgb(123, 138, 76)" class="bi bi-arrow-up-square" viewBox="0 0 16 16">
   <path fill-rule="evenodd" d="M15 2a1 1 0 0 0-1-1H2a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V2zM0 2a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V2zm8.5 9.5a.5.5 0 0 1-1 0V5.707L5.354 7.854a.5.5 0 1 1-.708-.708l3-3a.5.5 0 0 1 .708 0l3 3a.5.5 0 0 1-.708.708L8.5 5.707V11.5z"/>
@@ -78,7 +78,7 @@ export default function Projects() {
           <div className="col-lg-4 col-md-6 mb-5">
             <div className="box" >
               <div className="boxe">
-            <h3 className="mt-3">See the website</h3>
+            <h3 className="mb-4">See the website</h3>
             {/* <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis odit quis doloribus atque nesciunt eaque voluptate nobis corporis fuga optio ex earum, rem, in tempore ratione facilis odio temporibus at?</p> */}
             <Link to='' className="bg-P rounded mt-1 "><svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" fill="rgb(123, 138, 76)" class="bi bi-arrow-up-square" viewBox="0 0 16 16">
   <path fill-rule="evenodd" d="M15 2a1 1 0 0 0-1-1H2a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V2zM0 2a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V2zm8.5 9.5a.5.5 0 0 1-1 0V5.707L5.354 7.854a.5.5 0 1 1-.708-.708l3-3a.5.5 0 0 1 .708 0l3 3a.5.5 0 0 1-.708.708L8.5 5.707V11.5z"/>
@@ -90,7 +90,7 @@ export default function Projects() {
           <div className="col-lg-4 col-md-6 mb-5">
             <div className="box" >
               <div className="boxe">
-            <h3 className="mt-3">See the website</h3>
+            <h3 className="mb-4">See the website</h3>
             {/* <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis odit quis doloribus atque nesciunt eaque voluptate nobis corporis fuga optio ex earum, rem, in tempore ratione facilis odio temporibus at?</p> */}
             <Link to='' className="bg-P rounded mt-1  "><svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" fill="rgb(123, 138, 76)" class="bi bi-arrow-up-square" viewBox="0 0 16 16">
   <path fill-rule="evenodd" d="M15 2a1 1 0 0 0-1-1H2a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V2zM0 2a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V2zm8.5 9.5a.5.5 0 0 1-1 0V5.707L5.354 7.854a.5.5 0 1 1-.708-.708l3-3a.5.5 0 0 1 .708 0l3 3a.5.5 0 0 1-.708.708L8.5 5.707V11.5z"/>
@@ -102,7 +102,7 @@ export default function Projects() {
           <div className="col-lg-4 col-md-6 mb-5">
             <div className="box" >
               <div className="boxe">
-            <h3 className="mt-3">See the website</h3>
+            <h3 className="mb-4">See the website</h3>
             {/* <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis odit quis doloribus atque nesciunt eaque voluptate nobis corporis fuga optio ex earum, rem, in tempore ratione facilis odio temporibus at?</p> */}
             <Link to='' className="bg-P rounded  "><svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" fill="rgb(123, 138, 76)" class="bi bi-arrow-up-square" viewBox="0 0 16 16">
   <path fill-rule="evenodd" d="M15 2a1 1 0 0 0-1-1H2a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V2zM0 2a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V2zm8.5 9.5a.5.5 0 0 1-1 0V5.707L5.354 7.854a.5.5 0 1 1-.708-.708l3-3a.5.5 0 0 1 .708 0l3 3a.5.5 0 0 1-.708.708L8.5 5.707V11.5z"/>
