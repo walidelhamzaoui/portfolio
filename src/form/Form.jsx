@@ -52,7 +52,7 @@ const form = useRef();
     return (
         <div className='bg pb-2' >
    
-          <h1  ref={userf}className='title text-center pt-2'>Contact <span className='text-black'>Me</span> </h1>
+          <h1  ref={userf}className='title text-center pt-2'>Contact <span style={{color:"rgba(103, 106, 74, 0.943)"}}>Me</span> </h1>
             <div ref={userb} className="  container  d-lg-flex  align-items-lg-center justify-content-lg-center pt-4 pb-3  ">
           
                 <form ref={form} className='forma rows' onSubmit={sendEmail} id="footer">
